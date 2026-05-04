@@ -132,8 +132,8 @@ body {
 <!-- INTRO -->
 <div class="intro" id="intro">
     <h1>Untuk Kamu ❤️</h1>
-    <h1>Yang Sedang Berjuang...</h1>
-    <h1>Selamat Sidang Akhir ✨</h1>
+    <h1>Yang Habis Sidang...</h1>
+    <h1>Selamat Ya Atas Gelarnya SAYANGKU ✨</h1>
 </div>
 
 <!-- MAIN -->
@@ -227,7 +227,7 @@ function jawabIya() {
     document.getElementById("btnYes").style.display = "none";
     document.getElementById("btnNo").style.display = "none";
 
-    document.getElementById("text").innerHTML = "Aku juga sayang kamu sayang ❤️";
+    document.getElementById("text").innerHTML = "Aku juga sayang kamu sayang ❤️ maaf ya aku gabisa dateng my ratu kebo ini hadiah dari aku buat kamu";
 
     playMusic();
     startSlider();
