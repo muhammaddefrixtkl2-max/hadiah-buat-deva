@@ -132,8 +132,8 @@ body {
 <!-- INTRO -->
 <div class="intro" id="intro">
     <h1>Untuk Kamu ❤️</h1>
-    <h1>Yang Habis Sidang...</h1>
-    <h1>Selamat Ya Atas Gelarnya SAYANGKU ✨</h1>
+    <h1>Yang habis sidang...</h1>
+    <h1>Selamat Atas gelarnya sayangku ✨</h1>
 </div>
 
 <!-- MAIN -->
