@@ -79,8 +79,8 @@ body {
 /* TEXT DI PINGGIR */
 .text {
     position: absolute;
-    bottom: 100px;
-    left: 30px;
+    bottom: 200px;
+    left: 200px;
     color: white;
     z-index: 2;
 }
