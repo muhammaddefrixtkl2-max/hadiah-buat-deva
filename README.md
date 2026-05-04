@@ -80,7 +80,7 @@ body {
 .text {
     position: absolute;
     bottom: 200px;
-    left: 100px;
+    left: 50px;
     color: white;
     z-index: 2;
 }
